@@ -1,4 +1,4 @@
-all: serveur_udp client_udpsss
+all: udp-server my-udp-client
 TARGET=z1
 
 UIP_CONF_IPV6=1
